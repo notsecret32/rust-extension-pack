@@ -1,9 +1,8 @@
-# Change Log
+## 1.0.0
 
-All notable changes to the "rust-extension-pack" extension pack will be documented in this file.
+- All necessary extensions have been added
+- Publication configured for VS Code Extension Marketplace
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.1
 
-## [Unreleased]
-
-- Initial release
+Initial commit
