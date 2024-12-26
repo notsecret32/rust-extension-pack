@@ -1,0 +1,43 @@
+{
+  "name": "rust-extension-pack",
+  "displayName": "Rust Extension Pack",
+  "description": "Everything you need for Rust development",
+  "version": "1.0.0",
+  "publisher": "Alexander Skvorchevskiy",
+  "author": {
+    "name": "Alexander Skvorchevskiy",
+    "email": "alex.skvorchevskiy@gmail.com",
+    "url": "https://github.com/notsecret32"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notsecret32/rust-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/notsecret32/rust-extension-pack/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#f74c00",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "keywords": [
+    "rust",
+    "rust-lang",
+    "rust-analyzer",
+    "toml"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vadimcn.vscode-lldb",
+    "tamasfe.even-better-toml",
+    "rust-lang.rust-analyzer",
+    "fill-labs.dependi"
+  ]
+}
