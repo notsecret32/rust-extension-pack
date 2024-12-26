@@ -3,10 +3,10 @@
   "displayName": "Rust Extension Pack",
   "description": "Everything you need for Rust development",
   "version": "1.0.0",
-  "publisher": "Alexander Skvorchevskiy",
+  "publisher": "Alexander Skvorchevsky",
   "author": {
-    "name": "Alexander Skvorchevskiy",
-    "email": "alex.skvorchevskiy@gmail.com",
+    "name": "Alexander Skvorchevsky",
+    "email": "alex.skvorchevsky@gmail.com",
     "url": "https://github.com/notsecret32"
   },
   "license": "MIT",
