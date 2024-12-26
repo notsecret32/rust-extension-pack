@@ -1,6 +1,6 @@
 {
-  "name": "rust-extension-pack",
-  "displayName": "Rust Extension Pack",
+  "name": "rust-extension-pack-vscode",
+  "displayName": "Rust Extension Pack by notsecret32",
   "description": "Everything you need for Rust development",
   "version": "1.0.0",
   "publisher": "notsecret32",
